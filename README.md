@@ -88,7 +88,8 @@ local myProxieTable: proxie.Proxy<myTableType, string, any> = proxie.createProxy
 )
 ```
 ## footer
-thank you for reading, any questions please contact me on discord, my id is 732286835492913174. you may find more examples stricly typed and non typed examples in this repo!
+all credits of this module go to the author [OniiSamaUwU](https://www.roblox.com/users/profile?username=OniiSamaUwU)
+any questions please contact me on discord, my id is 732286835492913174. 
 
 
 
