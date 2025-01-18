@@ -1,4 +1,4 @@
-# proxie
+# proxie - a modern, strictly typed proxy table solver written in luau
 *proxie* is a easy to use and stricly typed roblox proxy table creator. it was derived from [this](https://devforum.roblox.com/t/metatable-and-proxy-table-help/3086359/2) post and turned into a module script for easier use and allowing you to use it across scripts.
 
 ## how to use (non-typed)
