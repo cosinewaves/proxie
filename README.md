@@ -39,10 +39,7 @@ myTable.Married = false
 ## how to use (typed)
 *proxie* has two types of which are:
 ```lua
-export type Proxy<T> = {
-	[any]: any
-}
-
+export type Proxy<T> = {[any]: any}
 export type ProxyCallback<I, V> = (key: I, newValue: V, oldValue: V) -> ()
 ```
 the `Proxy<T>` type serves as the type for your created Proxy table which you create in the module. the `ProxyCallback<I, V>` type serves as the type for the callback function you pass to the constructor function. both types are generic types allowing you to have whatever types you'd like in your table, receiving full intellisense support. for mixed tables, i.e. the example above, you can use `any` to annotate your tables. you can also use type unions.
