@@ -84,6 +84,8 @@ local myProxieTable: proxie.Proxy<myTableType, string, any> = proxie.createProxy
   callback
 )
 ```
+## how to use for oop
+please see examples/oop/car
 ## footer
 all credits of this module go to the author [OniiSamaUwU](https://www.roblox.com/users/profile?username=OniiSamaUwU)
 any questions please contact me on discord, my id is 732286835492913174. 
